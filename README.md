@@ -2,7 +2,7 @@ Amazon-clone:
 
 Built by following a YouTube tutorial, this project is built using Reactjs.
 
-🛠 : Html, Css, JavaScript, Reactjs and Firebase.
+🛠 : Html, Css, JavaScript, Reactjs[Function components, hooks],Material-Ui and Firebase.
 
 👉 The UI looks similar to Amazon.
 
