@@ -1,4 +1,4 @@
-Amazon-clone: 
+# Amazon-clone 
 
 Built by following a YouTube tutorial, this project is built using Reactjs.
 
